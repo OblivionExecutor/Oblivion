@@ -1,1 +1,0 @@
-set currentver=1
